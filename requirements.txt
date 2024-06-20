@@ -8,7 +8,6 @@ requests>=2.23.0
 scipy>=1.4.1
 filterpy==1.4.5
 scikit-image==0.19.3
-pickle
 scikit-learn
 
 
